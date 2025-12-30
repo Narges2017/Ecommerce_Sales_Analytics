@@ -125,7 +125,7 @@ The project includes SQL queries (`sql_queries/business_kpis.sql`) demonstrating
 ### Steps
 
 1. **Clone the repository**:
-git clone https://github.com/Narges2017/ecommerce-sales-analytics-portfolio.git
+git clone https://github.com/Narges2017/Ecommerce-Sales-Analytics.git
 cd ecommerce-sales-analytics-portfolio
 
 
