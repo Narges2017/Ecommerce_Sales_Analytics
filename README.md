@@ -40,27 +40,6 @@ Business intelligence and SQL analytics project analyzing 2+ years of Brazilian 
 - **Note**: Repeat purchase rate could not be accurately calculated due to anonymized customer IDs in the dataset (privacy limitation)
 
 ---
-
-## Project Structure
-
-Ecommerce_Sales_Analytics/
-├── data/
-│ └── README.md # Dataset source and download instructions
-├── notebooks/
-│ └── ecommerce_exploratory_analysis.ipynb # Python analysis with pandas and visualizations
-├── sql_queries/
-│ └── business_kpis.sql # SQL queries for KPI calculation
-├── dashboard/
-│ ├── monthly_revenue_trend.png # Revenue growth visualization
-│ ├── top_categories.png # Top 10 product categories
-│ └── top_sellers.png # Top 10 sellers by revenue
-├── .gitignore
-├── LICENSE
-├── README.md # This file
-└── requirements.txt # Python dependencies
-
-
-
 ---
 
 ## Key Performance Indicators (KPIs) Analyzed
